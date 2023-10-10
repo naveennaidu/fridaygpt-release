@@ -4,11 +4,11 @@
         <title>FridayAIMac</title>
         <item>
             <title>0.01</title>
-            <pubDate>Mon, 09 Oct 2023 18:46:21 +0530</pubDate>
+            <pubDate>Tue, 10 Oct 2023 16:12:58 +0530</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.01</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/naveennaidu/fridaygpt-release/releases/latest/download/FridayGPT.dmg" length="4702535" type="application/octet-stream" sparkle:edSignature="aDstmm/2MA2SCFgeU6UegUP4DuRrEMlaNrWL4/R2R6OVPYOhqifywh+JGrdLdQLRXZjxSKSR8npCspbrwX3LCg=="/>
+            <enclosure url="https://github.com/naveennaidu/fridaygpt-release/releases/latest/download/FridayGPT.dmg" length="4701813" type="application/octet-stream" sparkle:edSignature="9nFGpcNfreFqBds9GfZxnPiddCAg2WGGzOa/sqYSE9k0YBpZBj7VoneO3gn/QnH/UIGvYKTHLeaWwLQtucpkAA=="/>
         </item>
     </channel>
 </rss>
