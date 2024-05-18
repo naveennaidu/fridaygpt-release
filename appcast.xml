@@ -3,6 +3,14 @@
     <channel>
         <title>FridayAIMac</title>
         <item>
+            <title>0.19</title>
+            <pubDate>Sat, 18 May 2024 17:12:44 +0530</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/naveennaidu/fridaygpt-release/releases/latest/download/FridayGPT.dmg" length="6471029" type="application/octet-stream" sparkle:edSignature="XbhRDS7BceyaUrz9tS0BMcZ8hxYhkP1RCOTIJb3f3OQFGpl9eJrxYwETXYp9oDknTbyo5dY7b0OsvfIEjyrDAQ=="/>
+        </item>
+        <item>
             <title>0.18</title>
             <pubDate>Tue, 23 Apr 2024 10:16:50 +0530</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/naveennaidu/fridaygpt-release/releases/latest/download/FridayGPT.dmg" length="6210683" type="application/octet-stream" sparkle:edSignature="84e6puFmwhvlZdnDHys2Q7NkwdHpHDAhHk+Cgfu5IWcjmUV7n19CvnwUHFFuS3hrygsoDcNpc4h8TN22ocQwBw=="/>
-        </item>
-        <item>
-            <title>0.16</title>
-            <pubDate>Wed, 27 Mar 2024 14:59:17 +0530</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/naveennaidu/fridaygpt-release/releases/latest/download/FridayGPT.dmg" length="6982146" type="application/octet-stream" sparkle:edSignature="/e0x5MsRUuAsuaZ3kFk/2TmkFZ8pbPxTZzuKFF3NADkMZkd1DPBksnyYdYRJbAIVu8P5VSA/mEGglUElAGtrAA=="/>
         </item>
     </channel>
 </rss>
