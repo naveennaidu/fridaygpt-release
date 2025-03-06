@@ -3,6 +3,22 @@
     <channel>
         <title>Friday</title>
         <item>
+            <title>0.31</title>
+            <pubDate>Thu, 06 Mar 2025 22:07:50 +0530</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Changes in 0.31</h2>
+                <ul>
+                    <li>Added Anthropic Claude 3.7 Sonnet model</li>
+                    <li>Added Perplexity provider support</li>
+                    <li>Working on architecture refactoring to streamline addition of new providers</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/naveennaidu/fridaygpt-release/releases/latest/download/FridayGPT.dmg" length="16251390" type="application/octet-stream" sparkle:edSignature="eQP4hSN2lDtkeh3MGHVefd3/vnNHpMREn92FBXThq/bbMmwOY9uTGdZ9M+TurutgkcnzssH4fsnfwAF1baDdCg=="/>
+        </item>
+        <item>
             <title>0.30</title>
             <pubDate>Sat, 02 Nov 2024 16:41:56 +0530</pubDate>
             <sparkle:version>30</sparkle:version>
