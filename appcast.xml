@@ -3,6 +3,21 @@
     <channel>
         <title>Friday</title>
         <item>
+            <title>0.32</title>
+            <pubDate>Sat, 12 Apr 2025 15:52:22 +0530</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Changes in 0.32</h2>
+                <ul>
+                    <li>Added OpenRouter provider support. Access 300+ models</li>
+                    <li>Performance improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/naveennaidu/fridaygpt-release/releases/latest/download/FridayGPT.dmg" length="16870889" type="application/octet-stream" sparkle:edSignature="G2R/iKvhdZeSypnNimBoCmJ3pzPYVJuOhNQkDmFjjoAzxztuLnkoadMzxpeu7oP/X7MIJQtSdExMRwjv1nJ5CA=="/>
+        </item>
+        <item>
             <title>0.31</title>
             <pubDate>Thu, 06 Mar 2025 22:07:50 +0530</pubDate>
             <sparkle:version>31</sparkle:version>
